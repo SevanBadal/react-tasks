@@ -1,5 +1,4 @@
 import React from 'react';
-import img from '../../public/images/favicon.png';
 const Header = (props) => (
   <div className="header">
     <div className="container">
@@ -12,7 +11,7 @@ const Header = (props) => (
 );
 
 Header.defaultProps = {
-  title: 'Indecision'
+  title: 'Random Task Selector'
 }
 
 export default Header;
