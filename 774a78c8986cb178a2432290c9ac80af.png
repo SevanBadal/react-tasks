@@ -1,0 +1,1 @@
+module.exports = __webpack_public_path__ + "/Users/zomb/Documents/Programming/javascript/react/react-course-projects/indecision-app/public/images/favicon.png";
